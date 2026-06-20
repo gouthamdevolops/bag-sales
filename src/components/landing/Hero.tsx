@@ -14,7 +14,7 @@ export default function Hero() {
           <span className="inline-block px-4 py-1.5 bg-bag-camel/20 text-bag-espresso text-sm font-medium rounded-full mb-6">
             Handcrafted Excellence
           </span>
-          <h1 className="text-5xl md:text-7xl font-display font-bold text-bag-espresso mb-6 leading-tight">
+          <h1 style={{ fontFamily: "system-ui, sans-serif" }} style={{ fontFamily: "system-ui, sans-serif" }} style={{ fontFamily: "Georgia, serif" }} style={{ fontFamily: "Georgia, serif" }} style={{ fontFamily: "system-ui, sans-serif" }} style={{ fontFamily: "system-ui, sans-serif" }} className="text-5xl md:text-7xl font-display font-bold text-bag-espresso mb-6 leading-tight">
             Bags That Tell Your Story
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-lg">
